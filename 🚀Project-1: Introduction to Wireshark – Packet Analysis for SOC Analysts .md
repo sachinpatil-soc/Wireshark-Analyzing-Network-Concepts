@@ -1,5 +1,4 @@
 
-
 # 🚀Project-1: Introduction to Wireshark – Packet Analysis for SOC Analysts
 
 ## 🎯 Objective
@@ -11,26 +10,30 @@ The objective of this lab is to introduce about Wireshark, a powerful packet ana
 ## 🛠️ Lab Setup
 
 ## System Requirements
-
-Operating System: Windows, Linux, or macOS
-Network Adapter: Required for packet capture
-Software Required
-
-Wireshark (latest stable version)
-Download Sample PCAP file
+- Operating System: Windows, Linux, or macOS
+- Network Adapter: Required for packet capture
+- Software Required
+- Wireshark (latest stable version)
+- Download Sample PCAP file
 
 ## 📘 What is Wireshark?
 
 Wireshark is an open-source network protocol analyser that lets you capture and interactively browse network traffic. It allows analysts to view data packets flowing in and out of a system in real time or from saved PCAP files.
 
 ### 🛡️ Wireshark Use Cases for SOC Analysts
+### Incident Investigation:
 
-**Incident Investigation:**
-
-* **Malicious Traffic Analysis:** Examine suspicious traffic patterns, including C2 communication and lateral movement.
-* **Malware Analysis:** Extract indicators such as domains, IP addresses, and payloads from anomalous network behaviour.
-* **Threat Hunting:** Identify anomalies, including DNS tunnelling, beaconing, and unauthorised FTP/SSH usage.
-* **Protocol Troubleshooting:** Identify service failures, misconfigurations, or latency issues.
+ **Malicious Traffic Analysis:**
+ - Examine suspicious traffic patterns, including C2 communication and lateral movement.
+   
+  **Malware Analysis:**
+ - Extract indicators such as domains, IP addresses, and payloads from anomalous network behaviour.
+   
+  **Threat Hunting:**
+ - Identify anomalies, including DNS tunnelling, beaconing, and unauthorised FTP/SSH usage.
+ 
+  **Protocol Troubleshooting:**
+ - Identify service failures, misconfigurations, or latency issues.
 
 ## 📸 Submission
 
